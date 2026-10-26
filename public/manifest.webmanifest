@@ -1,0 +1,14 @@
+{
+  "name": "VoltRegistre terrain",
+  "short_name": "VoltRegistre",
+  "description": "Rapports d'intervention et contrôles des installations électriques, même sans réseau.",
+  "start_url": "/terrain",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f4",
+  "theme_color": "#17232b",
+  "lang": "fr",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
